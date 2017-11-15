@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="Clear">Очистить</string>
+    <string name="Send">Отправить</string>
+</resources>
